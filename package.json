@@ -1,0 +1,20 @@
+{
+  "name": "minehut-server-players",
+  "version": "1.0.0",
+  "description": "Watch mh player servers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/RileyDatLord/minehut-server-players/"
+  }
+}
