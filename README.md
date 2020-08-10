@@ -5,16 +5,16 @@
 
 ###  » server
   
-    The server name to track
+  The server name to track
 
 ###  » database
   
-    The MongoDB database to use
+  The MongoDB database to use
     
 ###  » collection
   
-    The MongoDB collection to use
+  The MongoDB collection to use
     
-###  » mongUrl
-  
-    The MongoDB URL (Need help? Go [here](https://www.mongodb.com/blog/post/quick-start-nodejs-mongodb--how-to-get-connected-to-your-database))
+###  > mongUrl
+
+  The MongoDB URL (Need help? Go [here](https://www.mongodb.com/blog/post/quick-start-nodejs-mongodb--how-to-get-connected-to-your-database))
