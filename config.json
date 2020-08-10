@@ -1,0 +1,6 @@
+{
+  "server": "name",
+  "collection": "mongoCollection",
+  "database": "mongoDB",
+  "mongoUrl": "mongodb+srv://<username>:<password>@cluster.ogmah.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
