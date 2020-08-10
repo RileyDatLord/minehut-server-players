@@ -3,14 +3,14 @@
 
 # Configuration
 
-  » ###server
+  ###» server
     The server name to track
 
-  » ###database
+  ###» database
     The MongoDB database to use
     
-  » ###collection
+  ###» collection
     The MongoDB collection to use
     
-  » ###mongUrl
+  ###» mongUrl
     The MongoDB URL (Need help? Go [here](https://www.mongodb.com/blog/post/quick-start-nodejs-mongodb--how-to-get-connected-to-your-database))
