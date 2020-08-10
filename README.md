@@ -15,6 +15,6 @@
   
   The MongoDB collection to use
     
-###  > mongUrl
+###  » mongUrl
 
   The MongoDB URL (Need help? Go [here](https://www.mongodb.com/blog/post/quick-start-nodejs-mongodb--how-to-get-connected-to-your-database))
